@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PencarianRumahSakit</string>
+    <string name="appname">Pencarian Rumah Sakit</string>
+    <string name="result">Hasil Pencarian</string>
+    <string name="alamat">Alamat Rumah Sakit</string>
+    <string name="jenis">Jenis Rumah Sakit</string>
+    <string name="rs_name">Nama Rumah Sakit</string>
+</resources>
